@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "492794793820",
+    "firebase_url": "https://mi-app-5c24c.firebaseio.com",
+    "project_id": "mi-app-5c24c",
+    "storage_bucket": "mi-app-5c24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492794793820:android:c64c600f4bf6413b",
+        "android_client_info": {
+          "package_name": "miapp.carlos.tech.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492794793820-m2c6pa8rg51tvl4q2t7gms9djnugtcue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmIA_RJ2RuIlrQWZ8ufQBuUNbVm6VFW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
